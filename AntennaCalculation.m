@@ -2,7 +2,7 @@
 frequency = 433e6; % 433 MHz frequency
 speedOfLight = physconst('LightSpeed'); % speed of light 
 
-% Anten geometrisinin tanımlanması 
+% Defining the antenna geometry 
 wavelength = speedOfLight / frequency; % Wavelength calculation
 antennaLength = wavelength / 2; % Half wavelength antenna
 
