@@ -1,4 +1,4 @@
-% Anten parameter
+% Antenna parameter
 frequency = 433e6; % 433 MHz frequency
 speedOfLight = physconst('LightSpeed'); % speed of light 
 
